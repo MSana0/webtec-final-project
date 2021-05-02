@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="background-image: url('https://media1.thehungryjpeg.com/thumbs/800_84053_8c77fdd76ead0e4b0acd37775d57f2ebfbed8fa1.jpg'); background-repeat: no-repeat; background-position: center; background-attachment: fixed; background-color: skyblue; background-size: 100% 100%;">
+	<style type="text/css">
+	
+		#text{
+
+			height: 25px;
+			border-radius: 5px;
+			padding: 4px;
+			border: solid thin #aaa;
+			width: 100%;
+		}
+
+		#button{
+
+			padding: 10px;
+			width: 100px;
+			color: white;
+			background-color: lightblue;
+			border: none;
+		}
+
+		#box{
+
+			background-color: lightblue;
+			margin: auto;
+			width: 300px;
+			padding: 20px;
+		}
+
+	</style>
+</body>
+</html>
